@@ -1,0 +1,1 @@
+# zynomi-bot-payment-ui-automation
